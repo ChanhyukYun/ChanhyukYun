@@ -13,6 +13,12 @@
 - ✔️ [Privacy-preserving camera localization via feature augmentation](), CVPR 2024 submitted, not accepted  
 - 🔭 LLM-based automatic emergency patient report processing service
 
+<details>
+<summary>About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
+어쩌구저쩌구 (감추고자 하는 내용)
+</summary>
+
+
 <!--
 **ChanhyukYun/ChanhyukYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
