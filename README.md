@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyukYun&layout=compact)
 
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
 ## Projects  
 - ✔️ [Korean car license plate detection](), private project 2018  
 - ✔️ [Tom & Jerry Command-line game](), private project 2020
@@ -36,7 +38,7 @@
 
 </summary>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+
 
 
 <!--
