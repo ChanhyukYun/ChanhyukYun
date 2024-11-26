@@ -30,7 +30,8 @@
 ### Skills
 - **Python**; Numpy, Pandas, PyTorch, Keras  
 - Java  
-- MATLAB  
+- MATLAB
+- Git, Docker
 - Overleaf (Paper writing)  
 
 
