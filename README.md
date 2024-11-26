@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yun's%20Repository&fontSize=90)
 
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
 ![Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanhyukYun&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyukYun&layout=compact)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+
 
 ## Projects  
 - ✔️ [Korean car license plate detection](), private project 2018  
