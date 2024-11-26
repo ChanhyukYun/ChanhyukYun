@@ -15,6 +15,10 @@
 - ✔️ [Privacy-preserving camera localization via feature augmentation](), *IEEE CVPR 2024 submitted, not accepted*  
 - 🔭 LLM-based automatic emergency patient report processing service, 2024 currently working...
 
+<br/>
+
+<br/>
+
 <details>
 <summary>About Me </summary>
   
@@ -26,11 +30,13 @@
 ### Skills
 - **Python**; Numpy, Pandas, PyTorch, Keras  
 - Java  
-- MATLAB
-- Overleaf; Paper writing
+- MATLAB  
+- Overleaf (Paper writing)  
 
 
 </summary>
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
 
 
 <!--
