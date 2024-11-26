@@ -5,14 +5,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyukYun&layout=compact)
 
 ## Projects  
-- ✔️ [Korean car license plate detection]()  
-- ✔️ [Tom & Jerry Command-line game]()  
+- ✔️ [Korean car license plate detection](), private project 2018  
+- ✔️ [Tom & Jerry Command-line game](), private project 2020
+- ✔️ [Playing instruments from humming](), private project 2022  
 - ✔️ [AI for design of vehicles](), IPIU 2023  
-- ✔️ [Paired-Point Lifting for Enhanced Privacy-Preserving Visual localization](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Paired-Point_Lifting_for_Enhanced_Privacy-Preserving_Visual_Localization_CVPR_2023_paper.pdf), CVPR 2023
+- ✔️ [Paired-Point Lifting for Enhanced Privacy-Preserving Visual localization](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Paired-Point_Lifting_for_Enhanced_Privacy-Preserving_Visual_Localization_CVPR_2023_paper.pdf), Proceedings of the IEEE CVPR 2023
 - ✔️ [Advanced AI for design of vehicles](), Proceedings of the KSME Fluid Engineering Division, 2023 Spring Conference  
 - ✔️ [Physics-informed neural networks for blood flow estimation](), 2023 Summer Annual Conference of IEIE, Jeju   
-- ✔️ [Privacy-preserving camera localization via feature augmentation](), CVPR 2024 submitted, not accepted  
-- 🔭 LLM-based automatic emergency patient report processing service
+- ✔️ [Privacy-preserving camera localization via feature augmentation](), IEEE CVPR 2024 submitted, not accepted  
+- 🔭 LLM-based automatic emergency patient report processing service, 2024 currently working...
 
 <details>
 <summary>About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
