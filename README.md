@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yun's%20Repository&fontSize=90)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
-
 ![Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanhyukYun&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyukYun&layout=compact)
@@ -40,8 +38,7 @@
 
 </summary>
 
-
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer&text=Yun's%20Repository&fontSize=90)
 
 <!--
 **ChanhyukYun/ChanhyukYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
