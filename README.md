@@ -17,12 +17,13 @@
 
 <details>
 <summary>About Me </summary>
-#### Education
+  
+### Education  
 - Bachelor of Electronic Engineering in Hanyang University, Seoul, South Korea (2015-2022)  
 - Master of Electronic Engineering in Hanyang University, Seoul, South Korea (2022-2024)  
 - 6th KT AIVLE SCHOOL AI Track (2024)
 
-#### Skills
+### Skills
 - **Python**; Numpy, Pandas, PyTorch, Keras  
 - Java  
 - MATLAB
