@@ -14,7 +14,7 @@
 - ✔️ [Physics-informed neural networks for blood flow estimation](), *2023 Summer Annual Conference of IEIE, Jeju* (Python)   
 - ✔️ [Privacy-preserving camera localization via feature augmentation](), *IEEE CVPR 2024 submitted, not accepted*  
 - ✔️ LLM-based automatic emergency patient report processing service, 6th KT AivleSchool 2024 (Python, Java)  
-- ✔️ AI Smart Meeting Assistant for Team Efficiency (MATE), 6th KT AivleSchool 2025 (Python, Java)  
+- ✔️ [AI Smart Meeting Assistant for Team Efficiency (MATE)](https://github.com/ChanhyukYun/MATE_Aivle_BP), 6th KT AivleSchool 2025 (Python, Java)  
 
 <br/>
 
