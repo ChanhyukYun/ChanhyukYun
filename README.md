@@ -20,8 +20,12 @@
 
 <br/>
 
+<!--
 <details>
 <summary>About Me </summary>
+-->
+
+## About Me
   
 ### Education  
 - Bachelor of Electronic Engineering in Hanyang University, Seoul, South Korea (2015-2022)  
@@ -35,8 +39,9 @@
 - Git, Docker  
 - Overleaf (Paper writing)  
 
-
+<!--
 </summary>
+-->
 
 <!--
 **ChanhyukYun/ChanhyukYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
